@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
 Debug|Win32|C:\Users\Admin\Documents\GitHub\Horse\DoAnCTDL\|
+=======
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17134.0
+Debug|Win32|C:\Users\DELL\Documents\GitHub\Horse\DoAnCTDL\|
+>>>>>>> 49bc546b7f6f19970559e9af0d875f5c7cccb9a1
