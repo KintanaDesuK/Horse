@@ -1,2 +1,4 @@
 ﻿  Horse.cpp
+d:\horse\doanctdl\bt_madituan\horse.cpp(30): warning C4101: 'm': unreferenced local variable
+d:\horse\doanctdl\bt_madituan\horse.cpp(30): warning C4101: 'n': unreferenced local variable
   BT_MaDiTuan.vcxproj -> D:\Horse\DoAnCTDL\x64\Debug\BT_MaDiTuan.exe
